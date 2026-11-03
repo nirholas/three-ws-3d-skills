@@ -1,0 +1,20 @@
+{
+	"name": "three-ws-3d",
+	"description": "Text and images to 3D: generate textured GLB models, rigged animation-ready avatars, auto-rig an existing model, search 3D assets, and embed a live avatar on any site. Free lanes, no account, no key.",
+	"version": "1.0.0",
+	"author": {
+		"name": "nirholas"
+	},
+	"homepage": "https://three.ws",
+	"license": "Apache-2.0",
+	"repository": "https://github.com/nirholas/three-ws-3d-skills",
+	"keywords": [
+		"3d",
+		"glb",
+		"text-to-3d",
+		"avatar",
+		"rigging",
+		"threejs"
+	],
+	"skills": "./skills"
+}
